@@ -31,7 +31,7 @@
                     </div>
                   </div>
                 @endif
-                <!-- /.row -->
+                <!-- /.row -->                 
                 <div class="box">
                   <div class="box-header">
                     <a href="{{ route('Aluno.create') }}" class="box-title btn btn-sm btn-primary">{{ __('Novo Aluno') }}</a>
